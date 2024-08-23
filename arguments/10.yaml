@@ -1,0 +1,23 @@
+# 10 views
+# 10 views
+iterations: 30_000
+position_lr_init: 0.00016
+position_lr_final: 0.0000016
+position_lr_delay_mult: 0.01
+position_lr_max_steps: 30_000
+feature_lr: 0.0015
+opacity_lr: 0.05
+opacity_lr:  0.025              
+scaling_lr: 0.005
+rotation_lr:  0.001
+percent_dense : 0.02
+lambda_dssim: 0.017             
+densification_interval: 450    
+opacity_reset_interval: 5000   
+densify_from_iter: 500
+densify_until_iter: 20_000
+densify_grad_threshold: 0.0003
+minthreshold: 0.026             #值越小点越多
+sparsity_rate: 0.08
+lambda_table_loss: 0.0053
+path_num : '10'

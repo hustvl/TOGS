@@ -1,0 +1,21 @@
+# 20 views
+iterations: 30_000
+position_lr_init: 0.00016
+position_lr_final: 0.0000016
+position_lr_delay_mult: 0.01
+position_lr_max_steps: 30_000
+feature_lr: 0.002
+opacity_lr: 0.025             
+scaling_lr: 0.005
+rotation_lr:  0.001
+percent_dense : 0.02
+lambda_dssim: 0.1             
+densification_interval: 100    
+opacity_reset_interval: 3000   
+densify_from_iter: 1000
+densify_until_iter: 20_000
+densify_grad_threshold: 0.0002
+minthreshold: 0.028
+sparsity_rate: 0.08
+lambda_table_loss: 0.0043
+path_num : '20'
