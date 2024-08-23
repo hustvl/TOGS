@@ -85,7 +85,7 @@ usage: python metrics.py -m [model save path]
 
 ### Visualization
 
-![video](video/video1.mp4)
+![video](video/video1.gif)
 
 ## Acknowledgement
 
