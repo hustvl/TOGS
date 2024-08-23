@@ -85,7 +85,7 @@ usage: python metrics.py -m [model save path]
 
 ### Visualization
 
-Number of training views: 30 , testing views: 103 , PSNR: 31.80
+Number of training views: 30, testing views: 103, PSNR: 31.80.
 
 ![video](video/video1.gif)
 
