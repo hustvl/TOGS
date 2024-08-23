@@ -13,19 +13,15 @@
 
 (📧 corresponding author) 
 
-[Key Features](#key-features) • [Installation](#installation) • [Usage](#usage) • [Training](#training) • [Inference](#inference)  • [Citation](#Citation)
-
 
 
 ---
 <div align="left">
 
   
-## Key Features
+## Abstract
 
-**Click and try LKCell on our [🤗 Hugging Face Space](https://huggingface.co/spaces/xiazhi/LKCell)!**
-
-This repository contains the code implementation of LKCell, a deep learning-based method for automated instance segmentation of cell nuclei in digitized tissue samples. LKCell utilizes an architecture based on large convolutional kernels and achieves state-of-the-art performance on the [PanNuke](https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke) dataset, a challenging nuclei instance segmentation benchmark. 
+![block](fig/fig1.pdf) | ![block](fig/fig2.pdf)
 
 
 <p align="center">
