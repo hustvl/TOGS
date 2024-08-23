@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES=2 python train.py -s /data5/zhangshuai/TOGS/data/medicaldata_mask2/images --eval --yaml_file /data5/zhangshuai/TOGS/arguments/30.yaml
+CUDA_VISIBLE_DEVICES=2 python train.py -s ./data/medicaldata --eval --yaml_file /data5/zhangshuai/TOGS/arguments/30.yaml
