@@ -21,7 +21,7 @@
   
 ## Abstract
 
-![block](fig/fig1.pdf) | ![block](fig/fig2.pdf)
+![block](fig/fig1.png)
 
 
 
