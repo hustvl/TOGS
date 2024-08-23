@@ -3,7 +3,7 @@
 
 
 
-[Shuai Zhang](https://github.com/Shuaizhang7) <sup>1</sup>, Huangxuan Zhao <sup>2</sup>, Zhenghong Zhou <sup>1</sup>, [Guanjun Wu](https://guanjunwu.github.io/) <sup>3</sup>,Chuansheng Zheng <sup>2</sup>, [Xinggang Wang](https://xwcv.github.io/) <sup>1</sup>,[Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu) <sup>1,📧</sup>
+[Shuai Zhang](https://github.com/Shuaizhang7) <sup>1</sup>, Huangxuan Zhao <sup>2</sup>, Zhenghong Zhou <sup>1</sup>, [Guanjun Wu](https://guanjunwu.github.io/) <sup>3</sup>,Chuansheng Zheng <sup>2</sup>,\ [Xinggang Wang](https://xwcv.github.io/) <sup>1</sup>,[Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu) <sup>1,📧</sup>
 
 <sup>1</sup> School of Electronic Information and Communications, Huazhong University of Science and Technology \
 <sup>2</sup>  School of Computer Science &Technology, Huazhong University of Science and Technology \
