@@ -1,17 +1,15 @@
 <div align="center">
-<h1> LKCell🔬</h1>
-<h2> Efficient Cell Nuclei Instance Segmentation with Large Convolution Kernels </h2>
+<h1> TOGS: Gaussian Splatting with Temporal Opacity Offset for Real-Time 4D DSA Rendering</h1>
 
 
 
-
-
-[Ziwei Cui](https://github.com/ziwei-cui) <sup>1*</sup>, [Jingfeng Yao](https://github.com/JingfengYao) <sup>1*</sup>, [Lunbin Zeng](https://github.com/xiazhi1) <sup>1</sup>, [Juan Yang]() <sup>2</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu) <sup>1</sup>, [Xinggang Wang](https://xwcv.github.io/) <sup>1,📧</sup>
+[Shuai Zhang](https://github.com/Shuaizhang7) <sup>1</sup>, Huangxuan Zhao <sup>2</sup>, Zhenghong Zhou <sup>1</sup>, [Guanjun Wu](https://guanjunwu.github.io/) <sup>3</sup>,Chuansheng Zheng <sup>2</sup>, [Xinggang Wang](https://xwcv.github.io/) <sup>1</sup>,[Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu) <sup>1,📧</sup>
 
 <sup>1</sup> School of Electronic Information and Communications, Huazhong University of Science and Technology \
-<sup>2</sup> Department of Cardiology, Huanggang Central Hospital
+<sup>2</sup>  School of Computer Science &Technology, Huazhong University of Science and Technology \
+<sup>3</sup> Department of Radiology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology \
 
-(\* equal contribution, 📧 corresponding author) 
+(📧 corresponding author) 
 
 [Key Features](#key-features) • [Installation](#installation) • [Usage](#usage) • [Training](#training) • [Inference](#inference)  • [Citation](#Citation)
 
