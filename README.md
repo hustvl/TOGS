@@ -81,6 +81,10 @@ python metrics.py -m ./output/60_2024-01-01_21:36:19
 
 usage: python metrics.py -m [model save path]
 
+### Visualization
+
+![video](video/video1.mp4)
+
 ## Acknowledgement
 
 This project is built upon [3DGS](https://github.com/graphdeco-inria/gaussian-splatting).
