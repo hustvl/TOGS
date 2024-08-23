@@ -34,6 +34,8 @@ git clone https://github.com/hustvl/TOGS.git
 conda create -n togs
 conda activate togs
 pip install -r requirements.txt
+python ./submodules/diff-gaussian-rasterization/setup.py install
+python ./submodules/simple-knn-main/setup.py install
 ```
 
 
