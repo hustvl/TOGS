@@ -24,12 +24,6 @@
 ![block](fig/fig1.pdf) | ![block](fig/fig2.pdf)
 
 
-<p align="center">
-  <img src="./docs/model.png"/>
-</p>
-
-
-
 
 
 
