@@ -63,7 +63,7 @@ Organize medical data into a form similar to [D-NeRF](https://github.com/albertp
 python train.py -s ./data/medicaldata --eval --yaml_file /data5/zhangshuai/TOGS/arguments/30.yaml
 ```
 
-usage: python train.py -s [data path] --eval --yaml_file [configfile path]  30: Number of training views
+usage: python train.py -s [data path] --eval --yaml_file [configfile path]  (30: Number of training views)
 
 
 ### Rendering
