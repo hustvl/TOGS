@@ -42,6 +42,9 @@ python ./submodules/simple-knn-main/setup.py install
 ## Training
 
 ### Dataset preparation
+1. You can use the ./processing_data/get_image.py script to extract image and angle information from dicom data.
+2. Use the ./processing_data/get_json.py script to get transforms_train.json and transforms_test.json.
+
 Organize medical data into a form similar to [D-NeRF](https://github.com/albertpumarola/D-NeRF).
 
 ```
