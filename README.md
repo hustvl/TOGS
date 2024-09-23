@@ -95,7 +95,6 @@ Number of training views: 30, testing views: 103, PSNR: 31.80.
 ![video](video/video1.gif)
 
 Visualizing 3D point clouds:
-![img](fig/fig2.png)
 
 <div align="center">
   <img src="./fig/fig2.png" width="50%" height="50%">
