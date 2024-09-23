@@ -237,7 +237,6 @@ def writedatajson(data,path,savedir,i_split):
             trainsavedata["frames"].append(newdic.copy())
         elif(i in i_split[2]):
             testsavedata["frames"].append(newdic.copy())
-
     
     with open(trainpath, 'w') as f:
         json.dump(trainsavedata, f)

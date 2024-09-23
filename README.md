@@ -104,6 +104,7 @@ Visualizing 3D point clouds:
 
 This project is built upon [3DGS](https://github.com/graphdeco-inria/gaussian-splatting).
 
+
 ## Citation
 ```latex
 @article{zhang2024togs,
