@@ -249,8 +249,8 @@ def writedatajson(data,path,savedir,i_split):
 
 if __name__ == '__main__':
     
-    basedir = './medical/'
-    savedir = './medical/'
+    basedir = '/data5/zhangshuai/medical/Qingyang/'
+    savedir = '/data5/zhangshuai/medical/Qingyang/'
     imgs, poses, render_poses, [H, W, focal], i_split = load_dsa_real_data(basedir,train_num=44)
     print(i_split)
     print(imgs.shape)
