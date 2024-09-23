@@ -94,6 +94,13 @@ Number of training views: 30, testing views: 103, PSNR: 31.80.
 
 ![video](video/video1.gif)
 
+Visualizing 3D point clouds:
+![img](fig/fig2.png)
+
+<div align="center">
+  <img src="./fig/fig2.png" width="50%" height="50%">
+</div>
+
 ## Acknowledgement
 
 This project is built upon [3DGS](https://github.com/graphdeco-inria/gaussian-splatting).

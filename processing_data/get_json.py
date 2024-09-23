@@ -72,6 +72,9 @@ def load_dsa_real_data(basedir, half_res=False, testskip=1,train_num=10,radius_=
     elif train_num == 40:
         train_index = np.array(range(0,133,3)[-40:])
         test_index = np.array(list(set(range(0, len_allframe))-set(train_index)))
+    elif train_num == 44:
+        train_index = np.array(range(0,133,3)[-44:])
+        test_index = np.array(list(set(range(0, len_allframe))-set(train_index)))
     elif train_num == 50: # 67 -> 107, 29 -> 52
         train_index = np.array([0, 1, 3, 4, 6, 9, 10, 12, 13, 15, 16, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, \
          72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105, 108, 111, 114, 117, 120, 123, 126, 129, 132])
@@ -246,9 +249,9 @@ def writedatajson(data,path,savedir,i_split):
 
 if __name__ == '__main__':
     
-    basedir = './medical/'
-    savedir = './medical/'
-    imgs, poses, render_poses, [H, W, focal], i_split = load_dsa_real_data(basedir,train_num=30)
+    basedir = '/data5/zhangshuai/medical/Qingyang/'
+    savedir = '/data5/zhangshuai/medical/Qingyang/'
+    imgs, poses, render_poses, [H, W, focal], i_split = load_dsa_real_data(basedir,train_num=44)
     print(i_split)
     print(imgs.shape)
 

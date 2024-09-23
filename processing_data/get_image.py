@@ -9,8 +9,8 @@ import pydicom
 import re
 from PIL import Image
 
-patient_2d_path = './medical/'
-out_real= './medical/'
+patient_2d_path = '/data5/zhangshuai/medical/QinYang_3D_No41_First'
+out_real= '/data5/zhangshuai/medical/Qingyang/'
 
 
 DSA_array2 = pydicom.read_file(patient_2d_path)
