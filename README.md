@@ -107,10 +107,14 @@ This project is built upon [3DGS](https://github.com/graphdeco-inria/gaussian-sp
 
 ## Citation
 ```latex
-@article{zhang2024togs,
-  title={TOGS: Gaussian Splatting with Temporal Opacity Offset for Real-Time 4D DSA Rendering},
+@ARTICLE{11020652,
   author={Zhang, Shuai and Zhao, Huangxuan and Zhou, Zhenghong and Wu, Guanjun and Zheng, Chuansheng and Wang, Xinggang and Liu, Wenyu},
-  journal={arXiv preprint arXiv:2403.19586},
-  year={2024}
-}
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={TOGS: Gaussian Splatting With Temporal Opacity Offset for Real-Time 4D DSA Rendering}, 
+  year={2025},
+  volume={29},
+  number={9},
+  pages={6793-6805},
+  keywords={Rendering (computer graphics);Three-dimensional displays;Biomedical imaging;Training;Neural radiance field;Image reconstruction;Real-time systems;Contrast agents;Deformation;Shape;Gaussian Splatting;4D DSA novel view synthesis;NeRF;medical imaging;real-time rendering},
+  doi={10.1109/JBHI.2025.3575613}}
 ```
